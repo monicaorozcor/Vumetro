@@ -13,3 +13,4 @@ La lista de componentes electrónicos utilizados son los siguientes:
 * 1 LM3915N
 * 1 DC Power Jack
 * 1 audio jack
+* 10 tiras de led RGB
