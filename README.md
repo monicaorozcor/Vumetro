@@ -19,3 +19,4 @@ La lista de componentes electrónicos utilizados son los siguientes:
 * 1 DC Power Jack
 * 1 audio jack
 * 10 tiras de led 
+* 10 borneras para tener control de cambio o ajuste en las tiras de led
