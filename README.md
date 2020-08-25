@@ -1,7 +1,8 @@
 # Documentación
-Se encontrarán dos archivos, en el cual el Vum-sch contiene el esquemático del proyecto y el Vum-brd
-el board de este. 
-
+Se encontrarán dos archivos, en el cual el Vum-sch contiene el esquemático del proyecto y el Vum-brd el board de este. 
+# Descripción
+Este vumetro funciona conectado una alimentación de 5V. Al introducirle una señal, en este caso de audio empezará a variar la activacion y la intensidad de las tiras de led al ritmo de la señal de audio. (Puedes conectarlo a un dispositivo inteligente y reproducir música o sonidos para hacer esto divertido).
+uno de los potenciométros ayudarán a regular la sensibilidad de recepción de la señal entrante y otro para regular la intensidad de iluminación de las tiras de led.
 # Lista de componentes
 La lista de componentes electrónicos utilizados son los siguientes:
 * 1 resistencia de 100 ohm
@@ -17,4 +18,4 @@ La lista de componentes electrónicos utilizados son los siguientes:
 * 1 LM3915N
 * 1 DC Power Jack
 * 1 audio jack
-* 10 tiras de led RGB
+* 10 tiras de led 
