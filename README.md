@@ -1,5 +1,5 @@
 # Documentación
-Se encontrarán dos archivos, en el cual el Vum-sch contiene el esquemático del proyecto y el Vum-brd_
+Se encontrarán dos archivos, en el cual el Vum-sch contiene el esquemático del proyecto y el Vum-brd
 el board de este. 
 
 # Lista de componentes
