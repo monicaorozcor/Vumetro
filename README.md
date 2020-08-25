@@ -1,4 +1,8 @@
-# Vumetro
+# Documentación
+Se encontrarán dos archivos, en el cual el Vum-sch contiene el esquemático del proyecto y el Vum-brd_
+el board de este. 
+
+# Lista de componentes
 La lista de componentes electrónicos utilizados son los siguientes:
 * 1 resistencia de 100 ohm
 * 21 resistencias de 1K ohm 
